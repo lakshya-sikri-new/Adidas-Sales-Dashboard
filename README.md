@@ -1,6 +1,6 @@
 # Adidas-Sales-Dashboard
 
-Welcome to our Power BI dashboard repository! This interactive dashboard is specifically designed to provide detailed insights into Adidas sales performance. Leveraging the capabilities of Power BI, a powerful data visualization tool, this dashboard allows Adidas store owners to analyze their sales data comprehensively and make informed business decisions.
+This interactive dashboard is specifically designed to provide detailed insights into Adidas sales performance. Leveraging the capabilities of Power BI, a powerful data visualization tool, this dashboard allows Adidas store owners to analyze their sales data comprehensively and make informed business decisions.
 
 # Dashboard Overview
 The Adidas Sales Analysis dashboard consists of several key components aimed at providing a holistic view of sales performance for Adidas products:
